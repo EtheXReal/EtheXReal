@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Bruce 👋
 
-<!--
-**EtheXReal/EtheXReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Application Developer** — building LLM-powered products end to end.
+Based in Hong Kong.
 
-Here are some ideas to get you started:
+🔭  Currently building **[SolveChain](https://solvechain.xreal.cc)** — a decision-reasoning tool with LLM analysis that helps you map a complex decision, see how the factors interact, and pressure-test your reasoning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️  React · TypeScript · Python · LLM integration · RAG
+
+📫  bruceluos@outlook.com · [LinkedIn](https://www.linkedin.com/in/xreal)
+
+---
+
+*Open to AI application & full-stack engineering roles.*

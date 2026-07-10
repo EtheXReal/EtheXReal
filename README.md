@@ -9,6 +9,4 @@ Based in Hong Kong.
 
 📫  bruceluos@outlook.com · [LinkedIn](https://www.linkedin.com/in/xreal)
 
----
 
-*Open to AI application & full-stack engineering roles.*

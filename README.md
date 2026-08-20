@@ -57,6 +57,12 @@ bruce@xreal:~$ uptime
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EtheXReal&theme=matrix" width="98%"/>
 </p>
 
+<!-- CONTRIBUTION SNAKE (regenerated twice daily by GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EtheXReal/EtheXReal/output/github-contribution-grid-snake-matrix.svg"/>
+  <img src="https://raw.githubusercontent.com/EtheXReal/EtheXReal/output/github-contribution-grid-snake-matrix.svg" width="100%" alt="contribution snake"/>
+</picture>
+
 ---
 
 ### `> ping --contact`
